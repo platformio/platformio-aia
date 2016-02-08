@@ -1,7 +1,7 @@
 {
   "name": "platformio-ide-autoinstaller",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Automatically installs PlatformIO IDE on the first Atom start",
   "keywords": [
     "PlatformIO"
