@@ -1,0 +1,16 @@
+{
+  "name": "platformio-ide-installer",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Automatically installs PlatformIO IDE on the first Atom start",
+  "keywords": [
+    "PlatformIO"
+  ],
+  "repository": "https://github.com/platformio/platformio-atom-ide-installer",
+  "license": "GPL-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
