@@ -1,12 +1,11 @@
 {
-  "name": "platformio-ide-autoinstaller",
+  "name": "platformio-aia",
   "main": "./lib/main",
   "version": "0.0.4",
-  "description": "Automatically installs PlatformIO IDE on the first Atom start",
+  "description": "Service package for PlatformIO IDE",
   "keywords": [
-    "PlatformIO"
   ],
-  "repository": "https://github.com/platformio/platformio-atom-ide-autoinstaller",
+  "repository": "https://github.com/platformio/platformio-aia",
   "license": "GPL-2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
