@@ -1,10 +1,9 @@
 {
   "name": "platformio-aia",
   "main": "./lib/main",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Service package for PlatformIO IDE",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/platformio/platformio-aia",
   "license": "GPL-2.0",
   "engines": {
